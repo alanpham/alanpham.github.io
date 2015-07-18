@@ -2,3 +2,9 @@
 body{
     background-color:floralwhite;
 }
+h1{
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+    font-size:300%;
+}
