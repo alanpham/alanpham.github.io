@@ -1,24 +1,12 @@
-/* Add style sheet here when ready. */
-body{
-    background-color:floralwhite;
+body {
+  padding-top: 50px;
 }
-h1{
-    color: black;
-    font-family: Helvetica;
-    text-align: center;
-    font-size:300%;
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
 }
-a:link{
-    text-decoration: none;
-    color: #000000;
-}
-a:visited{
-    text-decoration: none;
-    color: #000000;
-}
-a:hover{
-    text-decoration: underline;
-}
-a:active{
-    text-decoration: underline;
+
+.profile-img {
+    max-width: 15%;
+    height: auto;
 }
