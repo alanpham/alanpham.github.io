@@ -6,6 +6,14 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.intro-para{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
 /*
 .profile-img {
     max-width: 15%;
