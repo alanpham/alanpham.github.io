@@ -1,16 +1,16 @@
 body {
   padding-top: 50px;
-  background-image: url("images/broomballswan.jpg");
+  background-color: #626266;
 }
 .starter-template {
-  padding: 40px 15px;
+  padding: 40px 15px 15px;
   text-align: center;
 }
 
 .intro-para{
-    margin-top: 50px;
+    
     margin-bottom: 100px;
-    margin-right: 200px;
+    margin-right: 300px;
     margin-left: 200px;
 }
 
