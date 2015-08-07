@@ -1,6 +1,12 @@
+@font-face{
+    font-family:SanFrancisco;
+    src:url("fonts/SFRegular.ttf");
+}
+
 body {
   padding-top: 50px;
   background-color: #626266;
+  font-family:SanFrancisco;
 }
 
 /* unvisited link */
