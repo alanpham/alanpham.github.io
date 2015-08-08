@@ -32,17 +32,19 @@ a:active {
     color: #0000FF;
     text-decoration: none;
 }
-
-
-.starter-template {
-  padding: 40px 15px 15px;
-  text-align: center;
+.center-div
+{
+     margin: 0 auto;
+     font-size: 500%;
+     width: 460px;
+     height: 200px;
 }
 
 .container{
     height: 10em;
     position: relative;
 }
+
 .opening{
     margin: 0;
     font-size: 500%;
