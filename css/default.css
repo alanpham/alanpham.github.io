@@ -6,12 +6,16 @@
 body {
   padding-top: 50px;
   font-family:SanFrancisco;
-  background-image:
-    linear-gradient(
+  background:
+  linear-gradient(
       rgba(128, 0, 0, 0.45), 
       rgba(128, 0, 0, 0.45)
     ),
-  url("../images/background.jpg");
+  url("../images/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
