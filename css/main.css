@@ -11,6 +11,19 @@ li {
     float: center;
 }
 
-.navbar {
-  background-color: #000000;
+#nav {
+  height:30px;
+}
+
+#navbar {
+  padding: 5px;
+  background: #999;
+}
+
+#header {
+  background-color: #666;
+  color: #FFF;
+}
+br.clearLeft{
+  clear: left;
 }
