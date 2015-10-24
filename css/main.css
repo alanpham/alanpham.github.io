@@ -3,6 +3,7 @@ body {
    color: #999;
    font: 12px/1.4em Arial,sans-serif;
 }
+/*
 #wrap {
    margin: 10px auto;        
    background: #666;
@@ -14,6 +15,10 @@ body {
    line-height: 40px;    
    padding: 5px;
 }
+   background-color: #FFF;
+   margin: 0 0 0 0;
+
+*/
 #navWrap {
    height: 30px;
 }
@@ -30,9 +35,7 @@ body {
 }
 #nav li {
    float: left;
-   padding: 3px 8px;
-   background-color: #FFF;
-   margin: 0 10px 0 0;
+   padding: 0px 8px;
    color: #F00;
    list-style-type: none;
 }
